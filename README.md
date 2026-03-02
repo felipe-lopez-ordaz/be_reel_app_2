@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://youtube.com/shorts/Qk7LkcNPoq8
+https://youtube.com/shorts/ovKAPoT4zP8
 
 ## Notes
 
