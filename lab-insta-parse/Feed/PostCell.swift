@@ -159,6 +159,8 @@ class PostCell: UITableViewCell {
             }
         }
     }
+    @IBAction func onTapped(_ sender: Any) {
+    }
     @IBAction func OnCommentButtonTapped(_ sender: Any) {
     }
     

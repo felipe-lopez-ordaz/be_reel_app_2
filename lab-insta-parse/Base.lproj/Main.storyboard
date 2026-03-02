@@ -322,6 +322,8 @@
                                                                             </buttonConfiguration>
                                                                             <connections>
                                                                                 <action selector="OnCommentButtonTapped:" destination="9qC-nW-7MS" eventType="touchUpInside" id="Y5P-I0-GQj"/>
+                                                                                <action selector="onCommentButtonTapped:" destination="9qC-nW-7MS" eventType="touchUpInside" id="foI-V7-RMv"/>
+                                                                                <action selector="onTapped:" destination="9qC-nW-7MS" eventType="touchUpInside" id="Cq1-lI-tPi"/>
                                                                             </connections>
                                                                         </button>
                                                                     </subviews>
